@@ -4,5 +4,8 @@ body {
 
 p {
   color: #ffc800;
-  margin: 250px;
+}
+
+img {
+  width: 60%;
 }
