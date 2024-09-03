@@ -5,10 +5,14 @@ body {
 p {
   color: #ffc800;
   font-family: "Comic Sans MS", cursive, sans-serif;
-  padding-left: 100px;
-  padding-right: 100px;
+}
+
+div {
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 img {
   width: 60%;
 }
+
